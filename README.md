@@ -58,7 +58,7 @@ I'm a passionate Fullstack Web Developer with over **5 years of experience** in 
 
 ## 💼 Professional Experience
 
-### Fullstack Developer, AdOps Specialist  
+### Fullstack Developer, AdOps  
 **Company:** TV Azteca · Mexico City (Hybrid)  
 **Duration:** March 2023 — Present
 
